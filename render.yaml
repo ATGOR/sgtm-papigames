@@ -4,10 +4,3 @@ services:
     env: docker
     plan: free
     autoDeploy: true
-    envVars:
-      - key: PORT
-        value: 8080
-      - key: CONTAINER_CONFIG
-        value: auto
-      - key: CONTAINER_ID
-        value: GTM-M426XK7G
