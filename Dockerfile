@@ -1,3 +1,6 @@
 FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:stable
 
+ENV CONTAINER_CONFIG=auto
+ENV CONTAINER_ID=GTM-M426XK7G
+
 EXPOSE 8080
