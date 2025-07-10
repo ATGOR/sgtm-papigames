@@ -1,4 +1,4 @@
-FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:stable
+FROM ghcr.io/zgordon/gtm-server:latest
 
 ENV CONTAINER_CONFIG=auto
 ENV CONTAINER_ID=GTM-M426XK7G
