@@ -1,3 +1,3 @@
-FROM ghcr.io/gtm-server/gtm-server:latest
+FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:stable
 
 EXPOSE 8080
